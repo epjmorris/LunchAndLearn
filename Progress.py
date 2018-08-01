@@ -1,5 +1,7 @@
 ## Ed's Demo script for PythonWin
 
+## Could it be magic??
+
 myList = ["Gary", "Robbie", "Mark", "Howard", "Jason"]
 print (myList)
 
